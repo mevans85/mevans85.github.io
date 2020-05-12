@@ -1,0 +1,35 @@
+title: "I Hack Stuff"
+author: dusty
+description: "This is a website to document my research and to serve as my online presence."
+#url: "https://ihackstuff.co.uk"
+#baseurl: "/"
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+footer: yes
+footer_url: "https://ihackstuff.co.uk/"
+footer_text: "Page created using Jekyll."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+
+include: ['_pages']
+
+nav:
+ - name: "Home"
+   link: "/"
+ - name: "About"
+   link: "/about/"
+ - name: "Posts"
+   link: "/posts/"
+   # - name: "Blog"
+   #   link: "/blog/"
+   # - name: "Write Ups"
+   #   link: "/write-ups/"
+ - name: "Contact"
+   link: "/contact/"
+
+
+
