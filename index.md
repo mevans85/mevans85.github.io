@@ -5,7 +5,7 @@ permalink: /
 
 ## Welcome
 
-<img class="profile-picture" src="assets/images/hacker.jpg">
+<img class="profile-picture" src="assets/images/hacker.jpg" alt="Hacker">
 
 Hello and welcome to the <i><b>I Hack Stuff</b></i> web site.  I have created this site as a platform to document my ongoing learning and research.  By documenting, it allows me to solidfy the knowledge and also helps others.  It is also a central place for all my contact information and my basic online presence.  
 
