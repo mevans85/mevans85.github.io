@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About The Site
 
-As I mentioned on the main page, this site was created to document my research and learning path.  It helps me to solidfy knowledge by documenting what I learn and do, hopefully others will benefit from it as well.  I am a firm believer that knowledge should be shared and so this is my attempt at that.  For the time being I plan to utilise this as a platform to write blog posts and write-ups of challenges that I have completed.  I have separated the challenges out from the blog posts for the people whom don't want to spoil their challenge experiences.  This may or may not turn into something more, but for now, enjoy your stay.
+As I mentioned on the main page, this site was created to document my research and learning path.  It helps me to solidify knowledge by documenting what I learn and do, hopefully others will benefit from it as well.  I am a firm believer that knowledge should be shared and so this is my attempt at that.  For the time being I plan to utilise this as a platform to write blog posts and write-ups of challenges that I have completed.  I have separated the challenges out from the blog posts for the people whom don't want to spoil their challenge experiences.  This may or may not turn into something more, but for now, enjoy your stay.
 
 
 ## About Me
